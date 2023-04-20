@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **exploring consumption behaviours in the UK. I'm looking at a range of methods to profile and differentiate consumption patterns under the spatial context.**
 
-- 🌱 I’m currently learning **NLP, deep learning**
+- 🌱 I’m currently learning **React JS, Docker, Transformer (machine learning model)**
 
 - 📫 How to reach me **jasoncpit@gmail.com**
 
